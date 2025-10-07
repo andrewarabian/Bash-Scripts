@@ -1,4 +1,4 @@
-# Minimal battery monitor (reads BAT0 status and capacity) / Useful for laptops running server/minimal environments (No GUI)
+#Minimal battery monitor (reads BAT0 status and capacity) / Useful for laptops running server/minimal environments (No GUI)
 #!/usr/bin/env bash
 
 
