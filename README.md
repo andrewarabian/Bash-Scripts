@@ -1,12 +1,12 @@
-# Bash Scripts Collection
+# Bash Scripts
 
-A growing collection of Bash scripts focused on Linux system administration, automation, and performance tuning. Each script is designed to be clear, portable, and easily modifiable for personal or educational use.
+A collection of Bash scripts for Linux system administration, automation, and performance tuning. Each script is written for clarity and practical use.
 
-## Purpose
+### Purpose
 
 To provide practical, real-world examples of Bash scripting for managing and optimizing Linux systems — from automation tasks to monitoring and configuration helpers.
 
-## Structure
+### Structure
 
 Scripts are organized by function:
 
