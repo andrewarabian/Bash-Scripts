@@ -1,6 +1,10 @@
 # Bash Scripts
 
+---
+
 A collection of Bash scripts for Linux system administration, automation, and performance tuning. Each script is written for clarity and practical use.
+
+---
 
 ### Purpose
 
@@ -22,3 +26,13 @@ Scripts are organized by function:
 ## Usage
 
 Each script includes inline documentation and can be run directly:
+
+chmod +x scriptname.sh
+./scriptname.sh
+
+---
+
+Author: Andrew Arabian
+School: California State University, Northridge (CSUN)
+
+---
