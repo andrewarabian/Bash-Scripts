@@ -1,8 +1,5 @@
+# Minimal battery monitor (reads BAT0 status and capacity) / Useful for laptops running server/minimal environments (No GUI)
 #!/usr/bin/env bash
-
-# Minimal battery status (reads BAT0 status and capacity)
-
-# Useful for minimal (server) environments running on laptops.
 
 
 BAT="/sys/class/power_supply/BAT0"
